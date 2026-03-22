@@ -34,7 +34,7 @@ jobs:
 
       - run: |
           npm i -D @marp-team/marp-cli@latest && \
-          npx @marp-team/marp-cli@latest Presentation.md -o index.html
+          npx @marp-team/marp-cli@latest --html=true Presentation.md -o index.html
       
         
       - name: Setup Pages
