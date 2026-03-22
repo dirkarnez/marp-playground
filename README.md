@@ -1,5 +1,5 @@
-[marp-playground](https://github.com/dirkarnez/marp-playground)
-===============================================================
+[marp-playground](https://dirkarnez.github.io/marp-playground)
+==============================================================
 [Marp: Markdown Presentation Ecosystem](https://marp.app/)
 
 ### CLI
